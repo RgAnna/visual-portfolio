@@ -1,5 +1,17 @@
 # Портфолио: Инфографика и Презентации
 
+## Примеры работ
+
+![Project Preview](https://github.com/RgAnna/visual-portfolio/blob/main/infographics/slide.jpg)
+
+![Project Preview](https://github.com/RgAnna/visual-portfolio/blob/main/infographics/slide_01.jpg)
+
+![Project Preview](https://github.com/RgAnna/visual-portfolio/blob/main/infographics/slide_02.jpg)
+
+![Project Preview](https://github.com/RgAnna/visual-portfolio/blob/main/infographics/slide_03.jpg)
+
+![Project Preview](https://github.com/RgAnna/visual-portfolio/blob/main/infographics/slide_04.jpg)
+
 ## Описание
 
 Данный репозиторий содержит подборку работ, выполненных в рамках разработки инфографики и презентационного дизайна. Представлены примеры визуализации данных, структурирования информации и оформления слайдов для учебных и рабочих проектов.
@@ -17,17 +29,7 @@
 
 Репозиторий предназначен для демонстрации моих навыков в области презентационного дизайна и визуального оформления информации, а также может быть использован при поиске работы или сотрудничества.
 
-## Примеры работ
 
-![Project Preview](https://github.com/RgAnna/visual-portfolio/blob/main/infographics/slide.jpg)
-
-![Project Preview](https://github.com/RgAnna/visual-portfolio/blob/main/infographics/slide_01.jpg)
-
-![Project Preview](https://github.com/RgAnna/visual-portfolio/blob/main/infographics/slide_02.jpg)
-
-![Project Preview](https://github.com/RgAnna/visual-portfolio/blob/main/infographics/slide_03.jpg)
-
-![Project Preview](https://github.com/RgAnna/visual-portfolio/blob/main/infographics/slide_04.jpg)
 
 ---
 
