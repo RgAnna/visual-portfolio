@@ -10,7 +10,10 @@
 
 ![Project Preview](https://github.com/RgAnna/visual-portfolio/blob/main/infographics/slide_03.jpg)
 
-![Project Preview](https://github.com/RgAnna/visual-portfolio/blob/main/infographics/slide_04.jpg)
+![Project Preview](https://github.com/RgAnna/visual-portfolio/blob/main/infographics/cream.jpg)
+
+![Project Preview](https://github.com/RgAnna/visual-portfolio/blob/main/infographics/soap.png)
+
 
 ## Описание
 
