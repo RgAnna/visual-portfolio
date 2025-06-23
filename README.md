@@ -22,11 +22,11 @@
 ## Навыки
 
 - Визуализация информации и инфографика
-- Создание презентаций (PowerPoint, Figma)
+- Создание презентаций (PowerPoint)
 - Работа с визуальным стилем, цветом и типографикой
 - Композиция, акценты, структура подачи
 - Анализ и адаптация данных под визуальную подачу
-- Владение инструментами: PowerPoint, Figma, Illustrator, Photoshop
+- Владение инструментами: PowerPoint, Photoshop
 
 ## Цель
 
@@ -45,11 +45,11 @@ This repository showcases a selection of my works in infographics and presentati
 ## Skills
 
 - Information visualization and infographics
-- Presentation design (PowerPoint, Figma)
+- Presentation design (PowerPoint)
 - Visual style, color, and typography
 - Composition, emphasis, layout logic
 - Data analysis and adaptation for visual delivery
-- Proficient with: PowerPoint, Figma, Illustrator, Photoshop
+- Proficient with: PowerPoint, Photoshop
 
 ## Purpose
 
