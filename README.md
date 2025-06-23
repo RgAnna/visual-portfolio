@@ -1,2 +1,51 @@
-# visual-portfolio
- Портфолио работ по инфографике и презентациям: от структуры и данных — к визуальной истории. / Portfolio of infographics &amp; slide design.
+# Портфолио: Инфографика и Презентации
+
+## Описание
+
+Данный репозиторий содержит подборку работ, выполненных в рамках разработки инфографики и презентационного дизайна. Представлены примеры визуализации данных, структурирования информации и оформления слайдов для учебных и рабочих проектов.
+
+## Навыки
+
+- Визуализация информации и инфографика
+- Создание презентаций (PowerPoint, Figma)
+- Работа с визуальным стилем, цветом и типографикой
+- Композиция, акценты, структура подачи
+- Анализ и адаптация данных под визуальную подачу
+- Владение инструментами: PowerPoint, Figma, Illustrator, Photoshop
+
+## Цель
+
+Репозиторий предназначен для демонстрации моих навыков в области презентационного дизайна и визуального оформления информации, а также может быть использован при поиске работы или сотрудничества.
+
+## Примеры работ
+
+![Project Preview](https://github.com/RgAnna/visual-portfolio/blob/main/infographics/slide.jpg)
+
+![Project Preview](https://github.com/RgAnna/visual-portfolio/blob/main/infographics/slide_01.jpg)
+
+![Project Preview](https://github.com/RgAnna/visual-portfolio/blob/main/infographics/slide_02.jpg)
+
+![Project Preview](https://github.com/RgAnna/visual-portfolio/blob/main/infographics/slide_03.jpg)
+
+![Project Preview](https://github.com/RgAnna/visual-portfolio/blob/main/infographics/slide_04.jpg)
+
+---
+
+# Portfolio: Infographics and Presentation Design
+
+## Description
+
+This repository showcases a selection of my works in infographics and presentation design. It includes examples of data visualization, information structure, and slide design created for academic and professional purposes.
+
+## Skills
+
+- Information visualization and infographics
+- Presentation design (PowerPoint, Figma)
+- Visual style, color, and typography
+- Composition, emphasis, layout logic
+- Data analysis and adaptation for visual delivery
+- Proficient with: PowerPoint, Figma, Illustrator, Photoshop
+
+## Purpose
+
+This repository is intended to demonstrate my skills in presentation and visual information design and may be used when applying for job opportunities or collaborations.
